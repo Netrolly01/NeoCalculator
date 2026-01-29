@@ -1,16 +1,30 @@
-# calculadora_cientifica
+# 🔮 Calculadora Científica Neon
 
-A new Flutter project.
+Una **calculadora científica** desarrollada en **Flutter**, con un diseño moderno **estilo neón**, pensada para ofrecer una experiencia visual atractiva y funciones matemáticas avanzadas en dispositivos móviles.
 
-## Getting Started
+## ✨ Características
 
-This project is a starting point for a Flutter application.
+- 🎨 Interfaz **Neon UI** con colores vibrantes y efectos visuales modernos  
+- ➕ Operaciones básicas: suma, resta, multiplicación y división  
+- 📐 Funciones científicas:
+  - Potencias
+  - Raíz cuadrada
+  - Funciones trigonométricas (sin, cos, tan)
+  - Logaritmos
+- 📱 Diseño **responsive**, adaptable a diferentes tamaños de pantalla  
+- ⚡ Rendimiento fluido gracias a Flutter
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tecnologías Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter**
+- **Dart**
+- Widgets personalizados
+- Material Design (personalizado con estilo neón)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Instalación y Ejecución
+
+Asegúrate de tener Flutter instalado correctamente en tu sistema.
+
+1. Clona el repositorio:
+   ```bash
+   git clone <url-del-repositorio>
